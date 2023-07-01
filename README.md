@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sanjeeviraju
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning in Jain University
+
